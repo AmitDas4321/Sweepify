@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Sweepify Banner.png" alt="Sweepify Banner" width="800">
+  <img src="assets/Sweepify Banner.gif" alt="Sweepify Banner" width="800">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Your support helps keep the internet a cleaner place!
 ---
 
 <p align="center">
-  <img src="img/Sweepify Logo.png" alt="Sweepify Logo" width="160" height="160">
+  <img src="assets/Sweepify Logo.gif" alt="Sweepify Logo" width="160" height="160">
 </p>
 
 <p align="center">
