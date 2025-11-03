@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://t.me/SweepifyBot?startgroup=true" target="_blank">
   <img src="assets/Sweepify Banner.gif" alt="Sweepify Banner" width="800">
+  </a>
 </p>
 
 <p align="center">
